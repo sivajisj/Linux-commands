@@ -1,0 +1,23 @@
+   1  whoami
+    2  sudo yum install httpd
+    3  service http status
+    4  service httpd status
+    5  service httpd start
+    6  systemctl status httpd.service
+    7  sudo service httpd start
+    8  service httpd status
+    9  chkconfig httpd on
+   10  sudo chkconfig httpd on
+   11  cd /var/www/html/
+   12  ls
+   13  vim index.html
+   14  sudo vim index.html
+   15  cat index.html
+   16  sudo vim index.html
+   17  cat index.html
+   18  sudo vim index.html
+   19  vim portfolio.html
+   20  sudo vim portfolio.html
+   21  ls
+   22  cat portfolio.html
+   23  history
